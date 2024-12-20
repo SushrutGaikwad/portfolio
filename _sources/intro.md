@@ -32,7 +32,7 @@ Indian Institute of Science Education and Research, Pune, India
 ## 💼 Work Experience  
 
 ### **Master's Thesis Student (Intern)**
-Indian Institute of Tropical Meteorology, Pune, India
+Indian Institute of Tropical Meteorology, Pune, India   
 *December 2021 - December 2022*
 - Contributed to significant research projects aimed at improving air quality forecasting and understanding environmental hazards.
 - Developed predictive models for stubble burning events, a major anthropogenic source of air pollution in the Delhi-Punjab-Haryana region. This involved analyzing historical data and leveraging spatiotemporal deep learning techniques to forecast future occurrences, aiming to mitigate the adverse effects on air quality.
